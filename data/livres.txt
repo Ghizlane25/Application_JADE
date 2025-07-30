@@ -1,0 +1,7 @@
+
+1;L'intelligence Artificielle;Jean Dupont;Informatique;emprunte
+2;Programmation Java;Alice Martin;Informatique;emprunte
+3;Apprentissage profond;Yann LeCun;IA;emprunte
+4; Les réseaux neurones; Ian Goodfellow; IA; emprunte
+5; Clean Code; Robert C. Martin; Informatique; disponible
+6; Le Seigneur des Anneaux; J.R.R. Tolkien; Fantasy; disponible

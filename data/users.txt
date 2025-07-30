@@ -1,0 +1,11 @@
+etudiant1;azerty
+admin;admin123
+bibliothecaire;livres2025
+ghizlane;2000
+hanane;qwerty
+souad;1234
+zineb;abcd
+zineb;abcd
+laila;2025
+sirine;2345
+youssef;0000
